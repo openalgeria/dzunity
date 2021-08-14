@@ -2,7 +2,7 @@
 name: Modification point de collecte de don
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: Modification
 assignees: ''
 
 ---
